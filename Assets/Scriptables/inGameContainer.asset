@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c95f52a9dc2b384ebc95846f5c07a79, type: 3}
+  m_Name: inGameContainer
+  m_EditorClassIdentifier: 
+  bomb: {fileID: 21300000, guid: 77db22389bc58be428f04dc02372ae25, type: 3}
+  emptyCell: {fileID: 21300000, guid: b6d072d27bf2ede49858a7d8030fbc5a, type: 3}
+  wall: {fileID: 21300000, guid: 4305e5ae1c1147c4e8ed2ac4b7be238b, type: 3}

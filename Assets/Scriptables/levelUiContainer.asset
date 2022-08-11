@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c03711d0385c654abde1735ef271a42, type: 3}
+  m_Name: levelUiContainer
+  m_EditorClassIdentifier: 
+  playButtonSprite: {fileID: 21300000, guid: 37fe9ab428401d74b91414ce56e26bfd, type: 3}
+  lockedButtonSprite: {fileID: 21300000, guid: e8397c6b80dfc69459e0f52276aa1738, type: 3}
+  playButtonText: PLAY
+  lockedButtonText: LOCKED
